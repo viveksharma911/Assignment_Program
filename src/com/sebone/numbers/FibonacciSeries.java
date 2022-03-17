@@ -1,4 +1,4 @@
-package program1;
+package com.sebone.numbers;
 
 import java.util.Scanner;
 
